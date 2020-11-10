@@ -4,3 +4,10 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our samples at https://docs.gradle.org/6.7/samples
  */
+
+group = "io.github.bhuwanupadhyay"
+version = "1.0-SNAPSHOT"
+
+repositories {
+    mavenCentral()
+}

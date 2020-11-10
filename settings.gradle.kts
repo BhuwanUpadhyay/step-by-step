@@ -8,3 +8,5 @@
  */
 
 rootProject.name = "step-by-step"
+include("kotlin-features")
+include("kotlin-features")
